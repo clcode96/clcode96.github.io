@@ -208,7 +208,7 @@ Welcome to my GitHub! I'm an aspiring Software Developer/Inside Sales Representa
 ### **Conclusion**  
 An effective **Sales Data Dashboard** empowers stakeholders to identify trends, monitor progress, and make data-driven decisions. It's an essential tool for aligning sales strategies with business goals. Let me know if you’d like a detailed design or implementation plan!
 
-### Automated Report Generator(https://github.com/yourusername/project2)
+### Automated Report Generator(https://github.com/clcode96/Automated_Report_Generator/blob/main/README.md)
 - **Description:** automate data entry and reporting tasks.
 - **Tech Stack:**  Python and Excel/Google Sheets APIs
 - **Highlights:** An **Automated Report Generator** is a tool designed to streamline the reporting process by automatically compiling, analyzing, and presenting data in a structured format. Here are the key highlights of an automated report generator:  
