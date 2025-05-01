@@ -292,12 +292,6 @@ An effective **Sales Data Dashboard** empowers stakeholders to identify trends, 
 ### **Conclusion**  
 An **Automated Report Generator** is invaluable for businesses aiming to optimize their reporting process. It enables real-time decision-making, boosts efficiency, and ensures data-driven strategies. Let me know if you'd like guidance on designing or implementing one!
 
----
-
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
 
 ---
 
