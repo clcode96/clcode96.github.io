@@ -149,7 +149,7 @@ Welcome to my GitHub! I'm an aspiring Software Developer/Inside Sales Representa
 
 ## 🌟 Featured Projects
 
-### Sales Data Dashboard(https://github.com/yourusername/project1)
+### Sales Data Dashboard(https://github.com/clcode96/Sales_data_dashboard_project/blob/main/README.md)
 - **Description:** Analyze and visualize sales trends 
 - **Tech Stack:** Python, Pandas, Matplotlib and Power BI/Tableau
 - **Highlights:** A **Sales Data Dashboard** serves as a comprehensive tool for visualizing and analyzing sales performance metrics. Here are key highlights that should be included:
